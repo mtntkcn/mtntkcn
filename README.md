@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything to improve myself
 - 🌱 I’m currently learning software engineering especially blockchain
 - 💞️ I’m looking to collaborate on -
-- 📫 How to reach me metinnbey01@gmail.com
+- 📫 How to reach me 
 
 <!---
 mtntkcn/mtntkcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
